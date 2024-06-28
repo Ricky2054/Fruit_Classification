@@ -1,2 +1,2 @@
 # Fruit Classification
-We have used various Machine Learning Models for correct prediction of Fruit Name
+Various Machine Learning Models has been used for predicting Fruit Name and the best Model has been choosen
